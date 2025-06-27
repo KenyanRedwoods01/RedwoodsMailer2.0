@@ -3,7 +3,8 @@
 > **A Comprehensive, Feature-Rich Email Marketing & Management Platform**  
 > Designed for freelancers, startups, and enterprises to run scalable, professional email campaigns.
 
-![Redwoods Mailer Banner](https://yourdomain.com/assets/banner.png)
+![Redwoods Mailer Banner](https://redwoodskny.github.io/assets/assets_task_01jyqnma28f679yw1k7866c186_1750993696_img_1.webp
+)
 
 ---
 
